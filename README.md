@@ -33,7 +33,6 @@
 ![screenshot](https://github.com/francorinque/my-team-page-master/blob/master/images/screenshot-desktop.jpg)
 ![screenshot](https://github.com/francorinque/my-team-page-master/blob/master/images/screenshot-mobile.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? <a href="https://my-team-page-master-iota.vercel.app/">Demo</a> 
 - What was your experience? very good.
